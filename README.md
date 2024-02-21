@@ -26,12 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-Disclaimer:
+## Disclaimer:
 All images used were downloaded from the internet.
 Project: WeatherApp
-Project Overview:
+## Project Overview:
 The WeatherApp project is a user interface designed to provide real-time weather data for a specific location, in this case, Athens. The application is built using the Angular framework version 17.1.3 and utilizes the OpenWeatherMap API to fetch weather information.
-The WeatherApp displays the following weather data for the predefined location:
+## The WeatherApp displays the following weather data for the predefined location:
 •	Current temperature in degrees Celsius.
 •	Minimum temperature in degrees Celsius.
 •	Maximum temperature in degrees Celsius.
